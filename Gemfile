@@ -4,6 +4,9 @@ gem 'rails', '3.2.14'
 gem 'thin'
 gem 'pry-debugger'
 gem 'pg'
+gem 'devise'
+gem 'cancan'
+gem 'rolify'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
