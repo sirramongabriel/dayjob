@@ -3,7 +3,6 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.14'
 gem 'thin'
 gem 'pry-debugger'
-
 gem 'pg'
 
 group :assets do
